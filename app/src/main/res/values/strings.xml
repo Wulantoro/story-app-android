@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="title_signup_page">Register dulu ya...</string>
+    <string name="upload_image">Upload image</string>
+    <string name="desc">Deskripsi</string>
+    <string name="story_picture">Gambar story</string>
+    <string name="registrasi_berhasil">Berhasil membuat Akun..</string>
+    <string name="permission_needed">Permision dibutuhkan untuk operasi kamera</string>
+    <string name="deskripsi_gambar">Deskripsi gambar</string>
+    <string name="kirim">Kirim</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="image_desc">samber gambal image view</string>
+    <string name="error_posting">Gagal upload story, mohon coba lagi.</string>
+    <string name="succes_upload">Story berhasil diunggah</string>
+    <string name="null_desc">Kolom deskripsi tidak boleh kosong</string>
+    <string name="image_null">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="logout">Log Out</string>
+    <string name="story_icon">story icon</string>
+    <string name="share_story">Bagikan kisah mu di sini...</string>
+    <string name="desc_menu_1">Semua yang dari hati akan sampai ke hati</string>
+    <string name="ruang_cerita">Selalu ada ruang untuk sebuah cerita</string>
+    <string name="nyaman">Tempat berbagi cerita. Tempat rasa percaya. Nyaman juga akhirnya.</string>
+    <string name="cerita_aja">Cerita Aja</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map_story">Map Story</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
